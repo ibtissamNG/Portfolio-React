@@ -1,0 +1,18 @@
+{
+    "education":[
+        {
+            "title": "2020 - Now",
+            "cardTitle": "Computer Science",
+            "cardSubtitle":"ENSA - Oujda",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/ensao.png"
+            }
+        },
+        {
+            "title": "2018 - 2019",
+            "cardTitle": "Science Math A",
+            "cardSubtitle":"Omar Ibn Abdelaziz - Oujda"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/interns.png",
+            "title": "BookApp",
+            "bodyText": "- An Android App that shows the details of books belonging to many fields.\n - Option to search the book desired.\n - Option open the book on the browser.\n - Uses **SQLite** database to store all data."
+            ,
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ibtissamNG/BooksApp_Android"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "SQLite"
+            ]
+        },
+        {
+            "image" : "images/projects/stocks.png",
+            "title": "Stock Management Web App",
+            "bodyText": "- A Web App that alows the stock management.\n - The person in charge can easily knows the quantity left of each product.\n - Alert option in case the quantity of a product is less than a specific number.\n- Uses **mySQL** database to store all data.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ibtissamNG/CHU_gestion_de_stock"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JS",
+                "php",
+                "mySQL"
+            ]
+        },
+        {
+            "image" : "images/projects/book.png",
+            "title": "Interns Management Web App",
+            "bodyText": "- A Web App that alows the head of the service to manage the interns.\n - Each person in charge of a group of interns can acces to this web site and manage them.\n - Uses **mySQL** database to store all data. ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ibtissamNG/Gestion-Stagiaire"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JS",
+                "php",
+                "mySQL"
+            ]
+        },
+        {
+            "image" : "images/projects/students.png",
+            "title": "Students Marks Management App",
+            "bodyText": "- A Desktop App that alows the teachers to manage the marks of students.\n - Option of schedule for teachers.\n- Uses **mySQL** database to store all data.",
+            "tags" : [
+                "JavaFX",
+                "mySQL"
+            ]
+        }         
+    ]
+}

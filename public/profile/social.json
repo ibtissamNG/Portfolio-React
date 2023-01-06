@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/ibtissam-neggaoui-011727223/"
+        } ,
+        {
+            "network" : "github",
+            "href": "https://github.com/ibtissamNG?tab=repositories"
+        },
+        {
+            "network" : "email",
+            "href": "ibtissamneggaoui11@gmail.com"
+        }
+    ]
+}
