@@ -82,6 +82,7 @@
 
 section.timeline-card-content {
   justify-content: center;
+  padding-left: 15px;
 }
 
 section.timeline-card-content p.card-title {
